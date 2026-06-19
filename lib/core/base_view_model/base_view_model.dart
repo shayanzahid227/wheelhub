@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:hustler_syn/core/enums/view_state.dart';
+import 'package:wheelhub/core/enums/view_state.dart';
 
 ///
 /// [BaseViewModel] is the base class with all

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hustler_syn/core/constant/colors.dart';
-import 'package:hustler_syn/core/constant/text_style.dart';
+import 'package:wheelhub/core/constant/colors.dart';
+import 'package:wheelhub/core/constant/text_style.dart';
 
 final customAuthField = InputDecoration(
   hintText: "User Name",

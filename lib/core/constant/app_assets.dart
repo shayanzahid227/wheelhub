@@ -1,4 +1,4 @@
-import 'package:hustler_syn/core/constant/strings.dart';
+import 'package:wheelhub/core/constant/strings.dart';
 
 class AppAssets {
   String bagIcon = "$iconsAssets/bagIcon.png";

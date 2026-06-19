@@ -1,21 +1,21 @@
 // enum.dart
-enum UserRole { client, hustler }
+enum UserRole { seller, buyer }
 
 extension UserRoleExtension on UserRole {
   String get value {
     switch (this) {
-      case UserRole.client:
-        return 'client';
-      case UserRole.hustler:
-        return 'hustler';
+      case UserRole.seller:
+        return 'seller';
+      case UserRole.buyer:
+        return 'buyer';
     }
   }
 
   String get displayName {
     switch (this) {
-      case UserRole.client:
+      case UserRole.seller:
         return 'Client';
-      case UserRole.hustler:
+      case UserRole.buyer:
         return 'Hustler';
     }
   }

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hustler_syn/core/constant/colors.dart';
+import 'package:wheelhub/core/constant/colors.dart';
 
 final String? _poppins = GoogleFonts.poppins().fontFamily;
 
