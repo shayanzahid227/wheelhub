@@ -46,10 +46,5 @@ class AppAssets {
 
   String vettedIcon = "$iconsAssets/vettedIcon.png";
 
-  ///
-  String h = "$staticAssets/bagIcon.png";
-
-  ///
   String userImage = "$dynamicAssets/userImage.png";
-  String boys = "$dynamicAssets/boys.png";
 }

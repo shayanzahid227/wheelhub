@@ -14,9 +14,9 @@ extension UserRoleExtension on UserRole {
   String get displayName {
     switch (this) {
       case UserRole.seller:
-        return 'Client';
+        return 'Seller';
       case UserRole.buyer:
-        return 'Hustler';
+        return 'Buyer';
     }
   }
 }
